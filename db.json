@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Gelatina",
+      "precio": "55",
+      "id": 8
+    },
+    {
+      "nombre": "flan",
+      "precio": "220",
+      "id": 9
+    },
+    {
+      "nombre": "Jugo de naranja",
+      "precio": "250",
+      "id": 11
+    },
+    {
+      "nombre": "Jugo de fresa",
+      "precio": "1000",
+      "id": 12
+    }
+  ]
+}
